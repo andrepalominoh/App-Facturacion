@@ -1,0 +1,3 @@
+pass keystore: BITZ@2022!
+alias: bitz-upload
+pass:BITZ@2022!
